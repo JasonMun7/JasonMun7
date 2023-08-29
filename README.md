@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there 👋, I'm Jason Mun!
 
-<!--
-**JasonMun7/JasonMun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a student at Cornell University, where I'm pursuing a bachelor's degree in Computer Science along with a minor in Business. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 **Studying**: Computer Science & Business at Cornell University
+- 💻 **Languages**: Python, OCaml, Java, JavaScript, TypeScript, SQL and more
+- 🛠 **Frameworks**: React.js, Three.js, React Three Fiber
+- 🎮 **Hobbies**: Playing Street Fighter, assembling Gundam models, playing the cello
+
+## 🌟 Interests
+
+I'm passionate about software development and am eager to expand my horizons by learning new technologies. My skill set includes multiple programming languages and frameworks, and I'm always keen on adding more to that list.
+
+## 🎯 Goals
+
+1. Mastering the art of software development.
+2. Building impactful projects.
+3. Networking with like-minded people.
+
+## 📫 How to Reach Me
+
+- 📧 Email: [jasonmun020104@gmail.com](mailto:jasonmun020104@gmail.com)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jason-mun-25181b1b9/)
+- 🌐 Personal Website: [Website URL](Coming Soon)
+
+## 🎵 Fun Fact
+
+When I'm not coding, you'll find me engrossed in video games like Street Fighter, creating intricate Gundam models, or losing myself in the harmonious world of cello playing.
+
+## 🔗 Quick Links
+
+- [My Portfolio](#) (Coming Soon)
+- [My Resume](#) (Coming Soon)
+- [My Projects](#) (Check out the repositories below 👇)
+
+Feel free to take a look at my repositories and let's connect!
