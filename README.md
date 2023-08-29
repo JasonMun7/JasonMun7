@@ -23,7 +23,7 @@ I'm passionate about software development and am eager to expand my horizons by 
 
 - 📧 Email: [jasonmun020104@gmail.com](mailto:jasonmun020104@gmail.com)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jason-mun-25181b1b9/)
-- 🌐 Personal Website: [Website URL](Coming Soon)
+- 🌐 Personal Website: [Personal Website](Coming Soon)
 
 ## 🎵 Fun Fact
 
@@ -31,8 +31,6 @@ When I'm not coding, you'll find me engrossed in video games like Street Fighter
 
 ## 🔗 Quick Links
 
-- [My Portfolio](#) (Coming Soon)
-- [My Resume](#) (Coming Soon)
 - [My Projects](#) (Check out the repositories below 👇)
 
 Feel free to take a look at my repositories and let's connect!
