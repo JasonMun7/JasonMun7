@@ -5,8 +5,8 @@ I'm currently a student at Cornell University, where I'm pursuing a bachelor's d
 ## 🌱 About Me
 
 - 🏫 **Studying**: Computer Science & Business at Cornell University
-- 💻 **Languages**: Python, OCaml, Java, JavaScript, TypeScript, SQL and more
-- 🛠 **Frameworks**: React.js, Three.js, React Three Fiber
+- 💻 **Languages**: Python, OCaml, Java, JavaScript, TypeScript, SQL, HTML, CSS/TailwinCSS
+- 🛠 **Frameworks/Tools**: React.js, Three.js, React Three Fiber, Blender,GitHub, VS Code, Xcode,  PostgreSQL, TablePlus, Digital Ocean
 - 🎮 **Hobbies**: Playing Street Fighter, assembling Gundam models, playing the cello
 
 ## 🌟 Interests
