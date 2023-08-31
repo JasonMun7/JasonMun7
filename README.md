@@ -29,7 +29,7 @@ I'm passionate about software development and am eager to expand my horizons by 
 
 This is a placeholder website until the full version is developed. For updates, stay tuned!
 
-[Visit the Placeholder Personal Website](#your-link-here)
+- 🏗️ Placeholder Personal Website: [Placeholder Personal Website](#your-link-here)
 
 
 ## 🎵 Fun Fact
