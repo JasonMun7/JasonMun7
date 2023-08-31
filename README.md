@@ -7,11 +7,11 @@ I'm currently a student at Cornell University, where I'm pursuing a bachelor's d
 - 🏫 **Studying**: Computer Science (Major) & Business (Minor) at Cornell University
 - 💻 **Languages**: Python, OCaml, Java, JavaScript, TypeScript, SQL, HTML, CSS/TailwinCSS
 - 🛠 **Frameworks/Tools**: React.js, Three.js, React Three Fiber, Blender, GitHub, VS Code, Xcode,  PostgreSQL, TablePlus, Digital Ocean
-- 🎮 **Hobbies**: Playing Street Fighter, assembling Gundam models, playing the cello
+- 🎮 **Hobbies**: Creating web applications, Playing Volleyball, Going to the gym, Playing Street Fighter, Assembling Gundam models, Playing the cello
 
 ## 🌟 Interests
 
-I'm passionate about software development and am eager to expand my horizons by learning new technologies. My skill set includes multiple programming languages and frameworks, and I'm always keen on adding more to that list.
+I'm passionate about software development/engineering and am eager to expand my horizons by learning new technologies. My skill set includes multiple programming languages and frameworks, and I'm always keen on adding more to that list.
 
 ## 🎯 Goals
 
@@ -34,7 +34,7 @@ This is a placeholder website until the full version is developed. For updates, 
 
 ## 🎵 Fun Fact
 
-When I'm not coding, you'll find me engrossed in video games like Street Fighter, creating intricate Gundam models, or losing myself in the harmonious world of cello playing.
+When I'm not coding, you'll find me engrossed in video games like Street Fighter where I'm actually ranked Platinum with my main, Ken ❤️‍🔥, or playing indoor volleyball with my friends 🏐
 
 ## 🔗 Quick Links
 
