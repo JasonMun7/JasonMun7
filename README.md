@@ -23,7 +23,14 @@ I'm passionate about software development and am eager to expand my horizons by 
 
 - 📧 Email: [jasonmun020104@gmail.com](mailto:jasonmun020104@gmail.com)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jason-mun-25181b1b9/)
-- 🌐 Personal Website: [Personal Website](Coming Soon)
+
+## 🌐 Personal Website
+🚧 **Under Construction** 🚧
+
+This is a placeholder website until the full version is developed. For updates, stay tuned!
+
+[Visit the Placeholder Personal Website](#your-link-here)
+
 
 ## 🎵 Fun Fact
 
