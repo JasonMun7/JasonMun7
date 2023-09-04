@@ -29,7 +29,7 @@ I'm passionate about software development/engineering and am eager to expand my 
 
 This is a placeholder website until the full version is developed. For updates, stay tuned!
 
-- 🏗️ Placeholder Personal Website: [Placeholder Personal Website](#your-link-here)
+- 🏗️ Placeholder Personal Website: [Placeholder Personal Website](https://jason-mun-fallback-website.vercel.app/)
 
 
 ## 🎵 Fun Fact
