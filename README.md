@@ -34,7 +34,7 @@ This is a placeholder website until the full version is developed. For updates, 
 
 ## 🎵 Fun Fact
 
-When I'm not coding, you'll find me engrossed in video games like Street Fighter where I'm actually ranked Platinum with my main, Ken ❤️‍🔥, or playing indoor volleyball with my friends 🏐
+When I'm not coding, you'll find me engrossed in video games like Street Fighter where I'm actually ranked Master with my main, Ken ❤️‍🔥, or playing indoor volleyball with my friends 🏐
 
 ## 🔗 Quick Links
 
