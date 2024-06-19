@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jason Mun!
 
-I'm currently a student at Cornell University, where I'm pursuing a bachelor's degree in Computer Science along with a minor in Business. Welcome to my GitHub profile!
+I'm currently a student at Cornell University, where I'm pursuing a bachelor's degree in Computer Science along with a minor in Artificial Intelligence. Welcome to my GitHub profile!
 
 ## 🌱 About Me
 
@@ -21,7 +21,7 @@ I'm passionate about software development/engineering and am eager to expand my 
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [jasonmun020104@gmail.com](mailto:jasonmun020104@gmail.com)
+- 📧 Email: [jason.mun484@gmail.com](mailto:jason.mun484@gmail.com)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jason-mun-25181b1b9/)
 
 ## 🌐 Personal Website
