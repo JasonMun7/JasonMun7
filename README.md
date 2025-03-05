@@ -4,9 +4,10 @@ I'm currently a student at Cornell University, where I'm pursuing a bachelor's d
 
 ## 🌱 About Me
 
-- 🏫 **Studying**: Computer Science (Major) & Business (Minor) at Cornell University
-- 💻 **Languages**: Python, OCaml, Java, JavaScript, TypeScript, SQL, HTML, CSS/TailwindCSS
-- 🛠 **Frameworks/Tools**: React.js, Svelte, Sveltekit, Three.js, React Three Fiber, Blender, GitHub, VS Code, Xcode,  PostgreSQL, TablePlus, Digital Ocean
+- 🏫 **Studying**: Computer Science (Major) & Aritificial Intelligence (Minor) at Cornell University
+- 💻 **Web/Mobile Development**: React, Angular.js, Next.js, Node.js, Babel, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, React Native, Swift, Svelte, Three.js, React Three Fiber, Blender, PHP, Angular, .NET
+- </> **Programming/Backend**: Python, Java, OCaml, C#, C++,  AWS, SQL, PostgreSQL, Prisma, Supabase, Firebase
+- 🛠 **Tools/Skills**: Git, Linux, VS Code, VS, TablePlus, Digital Ocean, Agile/Scrum, Jira, Source tree, UIPath, Docker
 - 🎮 **Hobbies**: Creating web applications, Playing Volleyball, Going to the gym, Playing Street Fighter, Assembling Gundam models, Playing the cello
 
 ## 🌟 Interests
@@ -15,7 +16,7 @@ I'm passionate about software development/engineering and am eager to expand my 
 
 ## 🎯 Goals
 
-1. Mastering the art of software development.
+1. Mastering the art of Software Engineering.
 2. Building impactful projects.
 3. Networking with like-minded people.
 
