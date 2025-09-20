@@ -26,11 +26,8 @@ I'm passionate about software development/engineering and am eager to expand my 
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jason-mun-25181b1b9/)
 
 ## 🌐 Personal Website
-🚧 **Under Construction** 🚧
 
-This is a placeholder website until the full version is developed. For updates, stay tuned!
-
-- 🏗️ Placeholder Personal Website: [Placeholder Personal Website](https://jason-mun-fallback-website.vercel.app/)
+- 🌐 Personal Website: [Personal Website](https://jason-mun-portfolio.vercel.app/)
 
 
 ## 🎵 Fun Fact
